@@ -143,7 +143,7 @@ api
     <div className="Container">
       <div className="row">
         <div className="col-sm-6">
-          <h2 className="text-info">Formulario Controlado</h2>
+          <h2 className="text-info">Formulario de Tareas</h2>
           <form onSubmit={handleSubmit}>
             <input
               className="form-control mb-2"
